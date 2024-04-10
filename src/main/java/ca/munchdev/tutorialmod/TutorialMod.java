@@ -1,5 +1,6 @@
 package ca.munchdev.tutorialmod;
 
+import ca.munchdev.tutorialmod.block.ModBlocks;
 import ca.munchdev.tutorialmod.item.ModCreativeModeTabs;
 import ca.munchdev.tutorialmod.item.ModItems;
 import com.mojang.logging.LogUtils;
@@ -32,6 +33,7 @@ public class TutorialMod
         ModCreativeModeTabs.register(modEventBus);
 
         ModItems.register(modEventBus);
+        ModBlocks.register(modEventBus);
 
         // Register the commonSetup method for modloading
         modEventBus.addListener(this::commonSetup);
