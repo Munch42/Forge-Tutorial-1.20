@@ -1,5 +1,7 @@
 {
   "values": [
-    
+    "tutorialmod:nether_sapphire_ore",
+    "tutorialmod:sapphire_ore",
+    "tutorialmod:deepslate_sapphire_ore"
   ]
 }
