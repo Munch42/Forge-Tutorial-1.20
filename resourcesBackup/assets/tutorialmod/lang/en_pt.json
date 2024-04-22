@@ -1,0 +1,21 @@
+{
+  "block.tutorialmod.raw_sapphire_block": "Block o' Raw Sapphire",
+  "block.tutorialmod.sapphire_block": "Block o' Sapphire",
+  "creativetab.tutorial_tab": "Sapphire n' Grog",
+  "item.tutorialmod.raw_sapphire": "Booty o' Raw Sapphire",
+  "item.tutorialmod.sapphire": "Booty o' Sapphire",
+  "item.tutorialmod.strawberry": "Berry o' Straw",
+  "item.tutorialmod.pine_cone": "Cone o' the Pine Tree",
+
+  "item.tutorialmod.metal_detector": "Stick o' Findin'",
+
+  "block.tutorialmod.sapphire_ore": "Ore o' Sapphire",
+  "block.tutorialmod.deepslate_sapphire_ore": "Ore o' Sapphire n' Deepslate",
+  "block.tutorialmod.end_stone_sapphire_ore": "Sapphire Ore n' End Stone",
+  "block.tutorialmod.nether_sapphire_ore": "Sapphire Ore o' The Nether",
+
+  "block.tutorialmod.sound_block": "Block o' Soundin",
+
+  "tooltip.tutorial_mod.metal_detector": "Finds d' valuables",
+  "tooltip.tutorial_mod.sound_block": "Sweet sounds galore when right clicked!"
+}
